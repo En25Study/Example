@@ -1,2 +1,1 @@
-# Example
-this is example repository
+# 프로젝트 파일 구조 예시입니다
